@@ -81,13 +81,6 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 ---
 
-<!-- GitHub Stats Badges -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva-K67&show_icons=true&theme=tokyonight" alt="Siva's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-K67&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 <!-- Profile Visitor Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siva-K67&label=Profile%20views&color=0e75b6&style=flat" alt="Siva-K67" />
