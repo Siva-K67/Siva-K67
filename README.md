@@ -41,16 +41,6 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 </details>
 
 <details>
-<summary><strong>🌱 IoT Compost Monitoring System with RAG-based QA</strong></summary>
-
-- Developed a real-time compost monitoring system using sensor data (temperature, moisture, pH, humidity).  
-- Focused on **data analytics** to detect anomalies and trends.  
-- Built a **RAG-based prototype** that answers user questions about compost behavior using sensor logs and an LLM.  
-  For example: *"Why is the temperature unstable at night?"*
-
-</details>
-
-<details>
 <summary><strong>📈 Stock Market Predictor</strong></summary>
 
 - LSTM-based model to forecast stock trends from historical time series data.  
@@ -68,7 +58,8 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 - 🤖 **RAG-based Compost QA System:**  
   As part of the same research paper, I developed a **Retrieval-Augmented Generation** (RAG) prototype.  
-  It helps users interact with compost system data using natural language questions answered by an LLM.
+  It helps users interact with compost system data using natural language questions answered by an LLM.  It can answer user questions about compost behavior using sensor logs and an LLM.  
+  For example: *"Why is the temperature unstable at night?"*
 
 ---
 
