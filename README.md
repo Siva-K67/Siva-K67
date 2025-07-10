@@ -72,7 +72,7 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 
 - 🔗 LinkedIn: [linkedin.com/in/c-siva-kumar-71b011194](https://www.linkedin.com/in/c-siva-kumar-71b011194/)  
 - 📧 Academic Email: CSiva.Kumar@iiitb.ac.in  
