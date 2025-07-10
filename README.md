@@ -3,22 +3,22 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍🎓 About Me
 
 I’m currently pursuing **M.Tech at IIIT Bangalore**, with a strong interest in building scalable, intelligent, and real-world tech solutions.  
 I enjoy solving problems using full-stack development, LLMs, and real-time data analytics.
 
 ---
 
-### 🚀 Tech Stack
+### 🧰 Tech Stack
 
-- **Languages:** C++, JavaScript, Python  
-- **Frameworks & Libraries:** React, Node.js, Express, MongoDB  
-- **Currently Learning:** MERN Stack, Socket.IO, Retrieval-Augmented Generation (RAG)
+- 💻 **Languages:** C++, JavaScript, Python  
+- ⚙️ **Frameworks & Libraries:** React, Node.js, Express, MongoDB  
+- 📚 **Currently Learning:** MERN Stack, Socket.IO, Retrieval-Augmented Generation (RAG)
 
 ---
 
-### 📖 Publications & Research
+### 📄 Publications & Research
 
 - 📝 **Research Paper (Under Review):**  
   *“Real-Time IoT-Based Compost Monitoring System with Data Analytics”* — part of my M.Tech research at IIIT Bangalore.  
@@ -26,20 +26,20 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 - 🤖 **RAG-based Compost QA System:**  
   As part of the same research paper, I developed a **Retrieval-Augmented Generation** (RAG) prototype.  
-  It helps users interact with compost system data using natural language questions answered by an LLM.  It can answer user questions about compost behavior using sensor logs and an LLM.  
+  It helps users interact with compost system data using natural language questions answered by an LLM.  
   For example: *"Why is the temperature unstable at night?"*
 
 ---
 
-### 📚 Ongoing Projects
+### 🛠️ Ongoing Projects
 
 <details>
 <summary><strong>💬 MERN Chat App (with new features)</strong></summary>
 
-- **🔴 RED Notifications:**  
+- 🔴 **RED Notifications:**  
   Messages marked as urgent by the sender appear in **red** until opened, making them stand out from regular chats.
 
-- **🧠 Group Chat Summarizer (LLM-powered):**  
+- 🧠 **Group Chat Summarizer (LLM-powered):**  
   Uses a free LLM (e.g., **Mixtral via OpenRouter**) to summarize large group conversations.  
   Helps users decide if they should read the full chat or just the specific sections or skip the whole chat altogether.
 
@@ -63,21 +63,19 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 ---
 
+### 🎯 Current Focus
 
-### 🧠 Current Focus
-
-- Solving DSA 
-- Full-stack development (React + NodeJS)  
-- Exploring RAG, LLMs, and real-time data systems  
-- Building production-ready prototypes for smart systems
+- 📘 Solving DSA  
+- 🧑‍💻 Full-stack development (React + NodeJS)  
+- 🔍 Exploring RAG, LLMs, and real-time data systems  
 
 ---
 
 ### 📫 Let's Connect !
 
-- 🔗 LinkedIn: [linkedin.com/in/c-siva-kumar-71b011194](https://www.linkedin.com/in/c-siva-kumar-71b011194/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/c-siva-kumar-71b011194/)  
 - 📧 Academic Email: CSiva.Kumar@iiitb.ac.in  
-- 📬 Personal Email: csiva2021@gmail.com
+- ✉️ Personal Email: csiva2021@gmail.com
 
 ---
 
