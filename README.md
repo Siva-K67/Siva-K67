@@ -18,6 +18,19 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 ---
 
+### 📖 Publications & Research
+
+- 📝 **Research Paper (Under Review):**  
+  *“Real-Time IoT-Based Compost Monitoring System with Data Analytics”* — part of my M.Tech research at IIIT Bangalore.  
+  The paper explores anomaly detection in compost formation using data from sensors and employing data analysis methods on them.
+
+- 🤖 **RAG-based Compost QA System:**  
+  As part of the same research paper, I developed a **Retrieval-Augmented Generation** (RAG) prototype.  
+  It helps users interact with compost system data using natural language questions answered by an LLM.  It can answer user questions about compost behavior using sensor logs and an LLM.  
+  For example: *"Why is the temperature unstable at night?"*
+
+---
+
 ### 📚 Ongoing Projects
 
 <details>
@@ -50,18 +63,6 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 
 ---
 
-### 📖 Publications & Research
-
-- 📝 **Research Paper (In Progress):**  
-  *“Real-Time IoT-Based Compost Monitoring System with Data Analytics”* — part of my M.Tech course work at IIIT Bangalore.  
-  The paper explores anomaly detection in compost formation using data from sensors and employing data analysis methods on them.
-
-- 🤖 **RAG-based Compost QA System:**  
-  As part of the same research paper, I developed a **Retrieval-Augmented Generation** (RAG) prototype.  
-  It helps users interact with compost system data using natural language questions answered by an LLM.  It can answer user questions about compost behavior using sensor logs and an LLM.  
-  For example: *"Why is the temperature unstable at night?"*
-
----
 
 ### 🧠 Current Focus
 
