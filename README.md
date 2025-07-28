@@ -32,7 +32,7 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 </details>
 
 <details>
-<summary><strong>🤖 Chatbot for Customers (LLM Integrated)</strong></summary>
+<summary><strong>🤖 RAG Based Chatbot for Customers (LLM Integrated)</strong></summary>
 
 - A lightweight customer support chatbot powered by a free LLM like **Mixtral**.  
 - Capable of answering common queries and guiding users through basic support flow.
