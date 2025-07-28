@@ -20,7 +20,7 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 ### 🛠️ Ongoing Projects
 
 <details>
-<summary><strong>💬 MERN Chat App (with new features)</strong></summary>
+<summary><strong>💬New Features MERN Chat App</strong></summary>
 
 - 🔴 **RED Notifications:**  
   Messages marked as urgent by the sender appear in **red** until opened, making them stand out from regular chats.
