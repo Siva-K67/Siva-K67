@@ -29,6 +29,11 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
   Uses a free LLM (e.g., **Mixtral via OpenRouter**) to summarize large group conversations.  
   Helps users decide if they should read the full chat or just the specific sections or skip the whole chat altogether.
 
+- 🕵️ **Decoy Chat Feature:**
+  When a chat is opened, a fake but believable conversation is displayed by default.
+  Entering a secret keyword instantly switches to the real conversation.
+  Closing the chat resets it back to the fake version for privacy protection.
+
 </details>
 
 <details>
