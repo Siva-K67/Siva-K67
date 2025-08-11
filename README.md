@@ -26,7 +26,7 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
   Messages marked as urgent by the sender appear in **red** until opened, making them stand out from regular chats.
 
 - 🧠 **Group Chat Summarizer (LLM-powered):**  
-  Uses a free LLM (e.g., **Mixtral via OpenRouter**) to summarize large group conversations.  
+  Uses a free LLM (e.g., **GeminiAI API**) to summarize large group conversations.  
   Helps users decide if they should read the full chat or just the specific sections or skip the whole chat altogether.
 
 - 🕵️ **Decoy Chat Feature:**
