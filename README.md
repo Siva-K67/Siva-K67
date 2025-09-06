@@ -22,17 +22,17 @@ I enjoy solving problems using full-stack development, LLMs, and real-time data 
 <details>
 <summary><strong>💬New Features MERN Chat App</strong></summary>
 
+- 🕵️ **Decoy Chat Feature:**
+  When a chat is opened, a fake but believable conversation is displayed by default.
+  Entering a secret keyword instantly switches to the real conversation.
+  Closing the chat resets it back to the fake version for privacy protection.
+  
 - 🔴 **RED Notifications:**  
   Messages marked as urgent by the sender appear in **red** until opened, making them stand out from regular chats.
 
 - 🧠 **Group Chat Summarizer (LLM-powered):**  
   Uses a free LLM (e.g., **GeminiAI API**) to summarize large group conversations.  
   Helps users decide if they should read the full chat or just the specific sections or skip the whole chat altogether.
-
-- 🕵️ **Decoy Chat Feature:**
-  When a chat is opened, a fake but believable conversation is displayed by default.
-  Entering a secret keyword instantly switches to the real conversation.
-  Closing the chat resets it back to the fake version for privacy protection.
 
 </details>
 
