@@ -170,10 +170,12 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/chroma/5B21B6" width="48"/><br>ChromaDB
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48"/><br>ChromaDB
 </td>
 </tr>
 </table>
+
+
 
 ---
 
