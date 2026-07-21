@@ -177,7 +177,7 @@ I'm a **Software Development Engineer at CDPG, IISc**, passionate about building
 </details>
 
 <details>
-<summary><strong>💬 Helofi</strong></summary>
+<summary><strong>💬 Helofy</strong></summary>
 
 **Tech Stack:** React • Node.js • MongoDB
 
