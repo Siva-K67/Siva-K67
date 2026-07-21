@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Siva Kumar</h1>
 
 <h3 align="center">
-SDE at CDPG | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
+SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
 </h3>
 
 ---
 
 # 👋 About Me
 
-I'm a **Software Development Engineer at CDPG**, passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
+I'm a **Software Development Engineer at CDPG, IISc**, passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
 
-* 💼 Software Development Engineer at **CDPG**
+* 💼 Software Development Engineer at **CDPG, IISc**
 * 🎓 M.Tech from **IIIT Bangalore**
 * 🏅 **GATE AIR 679**
 * 📄 Published Researcher in the **MDPI IoT Journal**
