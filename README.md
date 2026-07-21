@@ -95,48 +95,121 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,java,cpp,c,python,javascript" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Backend & Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-<img src="https://img.shields.io/badge/Hibernate%20ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/hibernate" width="48"/><br>Hibernate
+</td>
+</tr>
+</table>
 
+---
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
+</td>
+</tr>
+</table>
+
+---
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-<img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-5B21B6?style=for-the-badge" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/chroma/5B21B6" width="48"/><br>ChromaDB
+</td>
+</tr>
+</table>
+
+---
 
 ### 📡 Messaging & Event Streaming
 
-<p>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/apachekafka" width="48"/><br>Apache Kafka
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/><br>RabbitMQ
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🤖 AI & LLM
 
-<p>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/google" width="48"/><br>Gemini AI
+</td>
+<td align="center" width="96">
+🧠<br>RAG
+</td>
+<td align="center" width="96">
+📚<br>Embeddings
+</td>
+<td align="center" width="96">
+🔎<br>Vector Search
+</td>
+</tr>
+</table>
 
 ---
 
