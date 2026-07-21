@@ -103,9 +103,9 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://img.shields.io/badge/Hibernate%20ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
-* Hibernate ORM
 
 ### 🎨 Frontend
 
@@ -117,26 +117,25 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-5B21B6?style=for-the-badge" />
 </p>
-
-* ChromaDB
 
 ### 📡 Messaging & Event Streaming
 
-* Apache Kafka
-* RabbitMQ
+<p>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+---
 
 ### 🤖 AI & LLM
 
-* Retrieval-Augmented Generation (RAG)
-* Gemini AI
-* Embeddings
-* Vector Search
-
-### 🛠 Developer Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge" />
 </p>
 
 ---
