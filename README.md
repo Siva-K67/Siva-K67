@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva Kumar</h1>
 
 <h3 align="center">
-Software Development Engineer at CDPG | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
+SDE at CDPG | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
 </h3>
 
 ---
@@ -11,7 +11,7 @@ Software Development Engineer at CDPG | M.Tech, IIIT Bangalore | GATE AIR 679 | 
 I'm a **Software Development Engineer at CDPG**, passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
 
 * 💼 Software Development Engineer at **CDPG**
-* 🎓 M.Tech in Computer Science from **IIIT Bangalore**
+* 🎓 M.Tech from **IIIT Bangalore**
 * 🏅 **GATE AIR 679**
 * 📄 Published Researcher in the **MDPI IoT Journal**
 * 💡 Interested in **Backend Engineering, Distributed Systems, AI/LLMs, RAG, and Full Stack Development**
@@ -27,14 +27,14 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 
 ---
 
-## Software Development Engineer Intern — TripFactory
+## Software Development Engineer — TripFactory *(Internship)*
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, MongoDB
 
-* 🔐 Restored Facebook OAuth authentication affecting **28% of users** by updating deprecated Graph API scopes, regenerating expired credentials, and resolving database schema constraint issues.
-* 🧠 Engineered a scalable semantic room-mapping system using embeddings, MongoDB, and vector search, automating **90%+** of mappings and reducing booking mismatches by **62%**.
-* 🌍 Architected a geo-aware authentication routing API directing users to region-specific login flows.
-* 🔒 Built secure authentication services using **BCrypt**, **JWT**, and **PostgreSQL**, supporting **6,000+ daily active sessions** and **10,000+ monthly bookings**.
+* Restored Facebook OAuth authentication affecting **28% of users** by updating deprecated Graph API scopes, regenerating expired credentials, and resolving database schema constraint issues.
+* Engineered a scalable semantic room-mapping system using embeddings, MongoDB, and vector search, automating **90%+** of mappings and reducing booking mismatches by **62%**.
+* Architected a geo-aware authentication routing API directing users to region-specific login flows.
+* Built secure authentication services using **BCrypt**, **JWT**, and **PostgreSQL**, supporting **6,000+ daily active sessions** and **10,000+ monthly bookings**.
 
 ---
 
