@@ -150,24 +150,6 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siva-K67&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-K67&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-K67&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Let's Connect
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/c-siva-kumar-71b011194/
