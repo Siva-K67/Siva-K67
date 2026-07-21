@@ -38,59 +38,6 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 
 ---
 
-# 🚀 Featured Projects
-
-<details>
-<summary><strong>🤖 RAG-Based Document Question Answering System</strong></summary>
-
-**Tech Stack:** Python • ChromaDB • Gemini AI
-
-* Built a modular Retrieval-Augmented Generation (RAG) pipeline for document question answering.
-* Developed a scalable PDF ingestion workflow with semantic embeddings and persistent vector indexing.
-* Indexed **300+ document chunks** for efficient low-latency retrieval.
-* Improved retrieval quality by **20%** using semantic chunking and RAGAS evaluation metrics.
-
-</details>
-
-<details>
-<summary><strong>💬 Helofi</strong></summary>
-
-**Tech Stack:** React • Node.js • MongoDB
-
-* Built a **Decoy Chat Mode** that displays fake conversations by default and unlocks real chats only after entering a secret keyword.
-* Implemented a **RED Notification System** that highlights urgent messages for improved visibility.
-* Focused on user privacy while maintaining a seamless messaging experience.
-
-</details>
-
-<details>
-<summary><strong>⚙️ Workshop Job Scheduling System</strong></summary>
-
-**Tech Stack:** C • POSIX Threads • TCP Sockets
-
-* Developed a Linux-based client-server job scheduling system.
-* Improved job delivery reliability from **62% to 100%** by replacing UDP with TCP.
-* Implemented priority queue scheduling with concurrent worker threads.
-* Used mutex synchronization to eliminate race conditions.
-
-</details>
-
----
-
-# 🔬 Research & Publications
-
-### 📄 Data Analysis on CMS Architecture
-
-**Publication:** MDPI IoT Journal
-
-**DOI:** https://doi.org/10.3390/iot6040064
-
-* Conducted exploratory data analysis on compost monitoring datasets.
-* Implemented multiple interpolation techniques for missing sensor values.
-* Improved decomposition efficiency by **27%** through anomaly detection and aeration optimization.
-
----
-
 # 🛠 Tech Stack
 
 ### 💻 Programming Languages
@@ -214,6 +161,61 @@ I'm a **Software Development Engineer at CDPG**, passionate about building scala
 </table>
 
 ---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><strong>🤖 RAG-Based Document Question Answering System</strong></summary>
+
+**Tech Stack:** Python • ChromaDB • Gemini AI
+
+* Built a modular Retrieval-Augmented Generation (RAG) pipeline for document question answering.
+* Developed a scalable PDF ingestion workflow with semantic embeddings and persistent vector indexing.
+* Indexed **300+ document chunks** for efficient low-latency retrieval.
+* Improved retrieval quality by **20%** using semantic chunking and RAGAS evaluation metrics.
+
+</details>
+
+<details>
+<summary><strong>💬 Helofi</strong></summary>
+
+**Tech Stack:** React • Node.js • MongoDB
+
+* Built a **Decoy Chat Mode** that displays fake conversations by default and unlocks real chats only after entering a secret keyword.
+* Implemented a **RED Notification System** that highlights urgent messages for improved visibility.
+* Focused on user privacy while maintaining a seamless messaging experience.
+
+</details>
+
+<details>
+<summary><strong>⚙️ Workshop Job Scheduling System</strong></summary>
+
+**Tech Stack:** C • POSIX Threads • TCP Sockets
+
+* Developed a Linux-based client-server job scheduling system.
+* Improved job delivery reliability from **62% to 100%** by replacing UDP with TCP.
+* Implemented priority queue scheduling with concurrent worker threads.
+* Used mutex synchronization to eliminate race conditions.
+
+</details>
+
+---
+
+# 🔬 Research & Publications
+
+### 📄 Data Analysis on CMS Architecture
+
+**Publication:** MDPI IoT Journal
+
+**DOI:** https://doi.org/10.3390/iot6040064
+
+* Conducted exploratory data analysis on compost monitoring datasets.
+* Implemented multiple interpolation techniques for missing sensor values.
+* Improved decomposition efficiency by **27%** through anomaly detection and aeration optimization.
+
+---
+
+
 
 # 🏆 Achievements
 
