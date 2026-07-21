@@ -81,7 +81,7 @@ I'm a **Software Development Engineer at CDPG, IISc**, passionate about building
 <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/hibernate" width="48"/><br>Hibernate
+<img src="https://cdn.simpleicons.org/hibernate" width="48"/><br>Hibernate ORM
 </td>
 </tr>
 </table>
