@@ -56,9 +56,6 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
-</td>
 </tr>
 </table>
 
@@ -100,6 +97,9 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
 </td>
 </tr>
 </table>
