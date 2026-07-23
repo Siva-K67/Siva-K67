@@ -53,9 +53,6 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" width="48"/><br>C
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
-</td>
 </tr>
 </table>
 
@@ -145,6 +142,9 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 <table>
 <tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/google" width="48"/><br>Gemini AI
 </td>
