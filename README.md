@@ -74,9 +74,9 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
-</td>
-<td align="center" width="96">
+</td> 
   -->
+<td align="center" width="96">
 <img src="https://cdn.simpleicons.org/hibernate" width="48"/><br>Hibernate ORM
 </td>
 </tr>
