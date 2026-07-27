@@ -45,9 +45,6 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
 </td>
 <td align="center" width="96">
@@ -66,15 +63,20 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 <img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
+</td>
+<!--
+  <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
 </td>
 <td align="center" width="96">
+  -->
 <img src="https://cdn.simpleicons.org/hibernate" width="48"/><br>Hibernate ORM
 </td>
 </tr>
