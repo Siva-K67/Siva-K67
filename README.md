@@ -22,6 +22,8 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 ## Software Development Engineer — CDPG *(Full-Time)*
 
+**Tech Stack:** Go (Golang), PostgreSQL
+
 * Developing scalable backend services using **Go (Golang)**.
 * Building reliable, production-grade software focused on performance, scalability, and maintainability.
 
