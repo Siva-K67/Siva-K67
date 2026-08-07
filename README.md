@@ -224,7 +224,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 # 🏆 Achievements
 
 * 🥇 Qualified **GATE** with **AIR 679**
-* 🔬 M.Tech at **IIIT BAngalore**
+* 🔬 M.Tech at **IIIT Bangalore**
 * 📄 Published researcher in the **MDPI IoT Journal**
 * 🏅 Nominated for the **Best Researcher Award** by the International Academic Excellence Awards
 * 🎓 Awarded the **University Day Meritorious Award** during Bachelor's
