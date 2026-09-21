@@ -21,7 +21,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 ---
 
-# <img src="Assets/typing.gif" width="30"/> Professional Experience
+# <img src="Assets/typing.gif" width="70"/> Professional Experience
 
 ## Software Development Engineer — CDPG *(Full-Time)*
 
