@@ -9,7 +9,7 @@ SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
 
 ---
 
-# <img src="Assets/typing.gif" width="70"/> About Me
+# <img src="Assets/pikachu.gif" width="70"/> About Me
 
 I'm currently a **Software Development Engineer at CDPG, IISc**, passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
 
