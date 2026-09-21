@@ -236,7 +236,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 # 📫 Let's Connect!
 
-* 💼 **LinkedIn:** <img src="Assets/linkedin.gif" width="20"/> https://www.linkedin.com/in/c-siva-kumar-71b011194/
+* 💼 <img src="Assets/linkedin.gif" width="50"/> https://www.linkedin.com/in/c-siva-kumar-71b011194/
 * 📧 **Academic Email:** [CSiva.Kumar@iiitb.ac.in](mailto:CSiva.Kumar@iiitb.ac.in)
 * ✉️ **Personal Email:** [csiva2021@gmail.com](mailto:csiva2021@gmail.com)
 * 🐙 **GitHub:** https://github.com/Siva-K67
