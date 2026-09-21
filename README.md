@@ -43,7 +43,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 ---
 
-# <img src="Assets/mario.gif" width="30"/> Tech Stack
+# <img src="Assets/mario.gif" width="70"/> Tech Stack
 
 ### 💻 Programming Languages
 
