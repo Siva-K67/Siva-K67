@@ -8,7 +8,7 @@ SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
 
 ---
 
-# 👋 About Me
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="30"/> About Me
 
 I'm currently a **Software Development Engineer at CDPG, IISc**, passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
 
