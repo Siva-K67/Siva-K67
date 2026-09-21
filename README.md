@@ -169,7 +169,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 ---
 
-# 🚀 Featured Projects
+# <img src="Assets/fire.gif" width="70"/> Featured Projects
 
 <details>
 <summary><strong>🤖 RAG-Based Document Question Answering System</strong></summary>
