@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siva Kumar</h1>
+<h1 align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="30"/> I'm Siva Kumar</h1>
 
 <h3 align="center">
 SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
