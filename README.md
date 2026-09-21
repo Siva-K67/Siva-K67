@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi!
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="30"/> I'm Siva Kumar</h1>
+<img src="Assets/hello.gif" width="30"/> Hi!
+<img src="Assets/pikachu.gif" width="30"/> I'm Siva Kumar</h1>
 
 <h3 align="center">
 SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
@@ -20,7 +20,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 ---
 
-# 💼 Professional Experience
+# <img src="Assets/typing.gif" width="30"/> Professional Experience
 
 ## Software Development Engineer — CDPG *(Full-Time)*
 
@@ -42,7 +42,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 ---
 
-# 🛠 Tech Stack
+# <img src="Assets/mario.gif" width="30"/> Tech Stack
 
 ### 💻 Programming Languages
 
@@ -235,7 +235,7 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 
 # 📫 Let's Connect!
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/c-siva-kumar-71b011194/
+* 💼 **LinkedIn:** <img src="Assets/linkedin.gif" width="20"/> https://www.linkedin.com/in/c-siva-kumar-71b011194/
 * 📧 **Academic Email:** [CSiva.Kumar@iiitb.ac.in](mailto:CSiva.Kumar@iiitb.ac.in)
 * ✉️ **Personal Email:** [csiva2021@gmail.com](mailto:csiva2021@gmail.com)
 * 🐙 **GitHub:** https://github.com/Siva-K67
