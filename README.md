@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="Assets/hello.gif" width="500"/> Hi! <img src="Assets/pikachu.gif" width="500"/>
+<img src="Assets/hello.gif" width="200"/><img src="Assets/pikachu.gif" width="100"/>
 <br/>
-I'm Siva Kumar</h1>
+Hi! I'm Siva Kumar</h1>
 
 <h3 align="center">
 SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
