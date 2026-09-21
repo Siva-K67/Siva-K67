@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="30"/> I'm Siva Kumar</h1>
+  Hi!
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="30"/>I'm Siva Kumar</h1>
 
 <h3 align="center">
 SDE at CDPG, IISc | M.Tech, IIIT Bangalore | GATE AIR 679 | Published Researcher
