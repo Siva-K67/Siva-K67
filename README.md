@@ -244,5 +244,5 @@ I'm currently a **Software Development Engineer at CDPG, IISc**, passionate abou
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Siva-K67&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Siva-K67&label=Profile%20Views&color=0e75b6&style=flat&v=2" />
 </p>
