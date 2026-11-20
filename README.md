@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="Assets/hello.gif" width="200"/>
+<img src="Assets/hello.gif" width="150"/>
 <br/>
 Hi! I'm Siva Kumar</h1>
 
